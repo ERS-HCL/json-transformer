@@ -1,0 +1,12 @@
+{
+  "Store": {
+    "Book": [
+      {
+        "array": "$.store.book"
+      },
+      "$.store.book[*]"
+    ]
+  },
+  "Bicycle Color": "$.store.bicycle.color",
+  "Expense Rate": "$.expensive"
+}

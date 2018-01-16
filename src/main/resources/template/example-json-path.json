@@ -1,0 +1,6 @@
+{
+	"Book Name": "$.store.book[*].author",
+	"Bicycle Color": "$.store.bicycle.color",
+	"Expense Rate":"$.expensive",
+	"Book Name1": "$.store..author"
+}

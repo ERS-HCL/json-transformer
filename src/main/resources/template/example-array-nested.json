@@ -1,0 +1,19 @@
+{
+  "Store": {
+    "Book": [
+      {
+        "array": "$.store.book"
+      },
+      {
+        "Book Name": "$.store.book[*].author",
+        "Book Topics": "$.store.book[*].topics.length()",
+        "First Topic": "$.store.book[*].topics[0]"
+      },
+      {
+        "Book Details": "$.store.book[*]"
+      }
+    ]
+  },
+  "Bicycle Color": "$.store.bicycle.color",
+  "Expense Rate": "$.expensive"
+}

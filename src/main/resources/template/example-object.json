@@ -1,0 +1,10 @@
+{
+  "Store": {
+    "Book": {
+      "Book Name": "$.store.book[*].author",
+      "Book Details": "$.store.book[*].price"
+    }
+  },
+  "Bicycle Color": "$.store.bicycle.color",
+  "Expense Rate": "$.expensive"
+}
