@@ -7,7 +7,7 @@ This JSON Transformer helps to transform JSON from one form of structure into an
 The configuration/template file is created using JSONPath notation to transform one structure of JSON file into any required structure. Configuration file is key value pair combination which is again constructed in JSON format, the key represents the output key and the value represents the JSON Path notation to pull the corresponding data from input JSON file.
 The structure of transformation can be of combination of any simple string, object, and array. And as well the combination could be nested as well.
 
-![Screenshot 1](https://github.com/sarathbabur/json-transformer/img/Process.JSPG)
+![Screenshot 1](https://github.com/sarathbabur/json-transformer/blob/master/img/Process.JPG)
 
 ## Execution: 
 Import it as Maven project and simply run the Java programs inside “com.hcl.ers.json.transformer.examples” package. 
