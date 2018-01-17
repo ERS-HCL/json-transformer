@@ -1,6 +1,6 @@
+#json-transformer
 
-
-We could find lot of JSON transformer which does change the format of JSON into another file format, but no tools help you to change the actual structure of JSON into another required structure. 
+We could find lots of JSON transformer which does change the format of JSON into another file format, but no tools help you to change the actual structure of JSON into another required structure. 
 
 This JSON Transformer helps to transform JSON from one form of structure into another structure form, with help of JSONPath tool (https://github.com/json-path/JsonPath). 
 
